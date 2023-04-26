@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16462942732",
+    "project_id": "speatalladmin",
+    "storage_bucket": "speatalladmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16462942732:android:d9078e6501833562749429",
+        "android_client_info": {
+          "package_name": "com.example.responsive_admin_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16462942732-m8v3h9022od0j7fr4e7b9ps45deuas5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.responsive_admin_dashboard",
+            "certificate_hash": "e5deda86ae8d395855a41f964497cc1da0490664"
+          }
+        },
+        {
+          "client_id": "16462942732-5irr3bcv8hg752ra0rdhdkuivh8chef2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZQu_WbqozWAlXIjlAu87E-So4Tj__Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16462942732-5irr3bcv8hg752ra0rdhdkuivh8chef2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
